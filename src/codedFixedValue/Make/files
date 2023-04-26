@@ -1,0 +1,3 @@
+codedScalarFixedValueFvPatchField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libcodedFixedValue
